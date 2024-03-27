@@ -1,3 +1,5 @@
+# Generating random dropouts of game elements
+
 from random import randint as rand
 
 def randbool (r, mxr):
