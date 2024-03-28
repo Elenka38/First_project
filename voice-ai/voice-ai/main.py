@@ -1,3 +1,6 @@
+# Голосовой помощник, выводит ответ на экран терминала, открывет сайт (можно указать любой)
+
+
 import pyttsx3
 import speech_recognition as sr
 import datetime
